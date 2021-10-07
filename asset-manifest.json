@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fatline/static/css/main.fda20294.chunk.css",
-    "main.js": "/fatline/static/js/main.b8ad26c7.chunk.js",
-    "main.js.map": "/fatline/static/js/main.b8ad26c7.chunk.js.map",
+    "main.js": "/fatline/static/js/main.6554c6c0.chunk.js",
+    "main.js.map": "/fatline/static/js/main.6554c6c0.chunk.js.map",
     "runtime-main.js": "/fatline/static/js/runtime-main.9e9191ed.js",
     "runtime-main.js.map": "/fatline/static/js/runtime-main.9e9191ed.js.map",
     "static/css/2.26d0daaa.chunk.css": "/fatline/static/css/2.26d0daaa.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.26d0daaa.chunk.css",
     "static/js/2.ea6252ca.chunk.js",
     "static/css/main.fda20294.chunk.css",
-    "static/js/main.b8ad26c7.chunk.js"
+    "static/js/main.6554c6c0.chunk.js"
   ]
 }
