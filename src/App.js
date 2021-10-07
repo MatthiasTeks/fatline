@@ -29,7 +29,7 @@ function App() {
         <div className="main">
           <div className="content">
             <Switch>
-              <Route exact path="/FatlineTattooClub/">           
+              <Route exact path="/fatline/">           
                 <Menu styleMenu="inactive" />         
                 <div className="welcome">
                   <h1>FATLINE TATTOO CLUB</h1>
