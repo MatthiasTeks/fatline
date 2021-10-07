@@ -486,8 +486,14 @@
 }
 
 .verticalFont > hr {
+	display: block;
+	height: 1px;
 	width: 150%;
     transform: translateX(-17%);
+	background-color: #ddd9d9d4;
+	border-top: 1px solid #ddd9d9d4;
+	border: 0;
+	padding: 0;
 }
 
 .leftFont {

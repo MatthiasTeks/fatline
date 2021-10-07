@@ -69,8 +69,8 @@ function App() {
             </Switch>
             <div className="social">
               <div className="welcome active">
-                <Button styleBtn="socialLink" textBtn={<SiInstagram />}/>
-                <Button styleBtn="socialLink" textBtn={<SiFacebook />}/> 
+                <Button link="https://www.instagram.com/fatlinetattooclub/?hl=fr" styleBtn="socialLink" textBtn={<SiInstagram />}/>
+                <Button link="https://business.facebook.com/pg/fatlinetattooclub/posts/" styleBtn="socialLink" textBtn={<SiFacebook />}/> 
                </div>
             </div>
           </div> 
