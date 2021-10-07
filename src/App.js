@@ -29,12 +29,14 @@ function App() {
         <div className="main">
           <div className="content">
             <Switch>
-              <Route exact path="/fatline/">           
-                <Menu styleMenu="inactive" />         
+              <Route exact path="/fatline/">
+                <div className="header" style={{justifyContent: 'flex-end'}}>
+                  <Menu styleMenu="menu"/>
+                </div>        
                 <div className="welcome">
                   <h1>FATLINE TATTOO CLUB</h1>
                   <h3>HORI KI STUDIO - ELECTRIC TEBORI - 3 RUE BERTHELOT - 33000 BORDEAUX</h3>
-                  <Link to="/about"><Button textBtn="PLUS D'INFOS"/></Link>                
+                  <Link to="/about"><div className="buttonMore animated">PLUS D'INFOS</div></Link>                
                 </div>
               </Route>  
               <Route path="/about">

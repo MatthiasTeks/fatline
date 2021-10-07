@@ -26,7 +26,7 @@ let ContactForm = () => {
                     <textarea name="message" placeholder="VOTRE PROJET" id="message_input" cols="30" rows="5" required></textarea>
                 </div>
                 <div class="submit">
-                    <input type="submit" value="ENVOYER" id="form_button" />
+                    <input type="submit" value="ENVOYER" id="form_button" disabled/>
                 </div>
             </form>
             <p>3 RUE BERTHELOT - 33000 BORDEAUX</p>

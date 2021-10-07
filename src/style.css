@@ -268,6 +268,7 @@
 	color: var(--color-font);
 	padding-right: 10px;
 	margin: 0;
+	text-shadow: 1px 1px rgb(39 37 37 / 78%)
 }
 
 .burger > svg {
@@ -298,6 +299,13 @@
 
 .holderNav {
 	position: relative;
+}
+
+.holderNav > a:hover {
+	color: #312a3efc;
+	font-weight: 600;
+	transition: ease-in 0.2s;
+
 }
 
 @media screen and (max-width: 470px) {
