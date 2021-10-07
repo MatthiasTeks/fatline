@@ -7,3 +7,6 @@ But for now... while I'm not an a accomplished developer, it's been my playgroun
 I have worked with HTML, CSS, JS, React ⚙️ 
 
 Thank you for visiting this repo ☀️
+
+
+PS: Responsive can be optimize on small smartphone 
