@@ -10,7 +10,7 @@ let Menu = (props) => {
         <div className={props.styleMenu}>
             <div className={`nav ${navbar ? "active" : ""}`}>
                 <div className='holderNav'>
-                    <Link onClick={() => setNavbar(!navbar)} to="/FatlineTattooClub/">Home</Link>
+                    <Link onClick={() => setNavbar(!navbar)} to="/fatline/">Home</Link>
                     <Link onClick={() => setNavbar(!navbar)} to="/about">About</Link>
                     <Link onClick={() => setNavbar(!navbar)} to="/portfolio">Portfolio</Link>
                     <Link onClick={() => setNavbar(!navbar)} to="/contact">Contact</Link>

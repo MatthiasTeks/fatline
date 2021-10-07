@@ -39,7 +39,7 @@ function App() {
               </Route>  
               <Route path="/about">
                 <div className="header">
-                  <Link to="/FatlineTattooClub/"><Fatline /></Link>
+                  <Link to="/fatline/"><Fatline /></Link>
                   <Menu styleMenu="menu"/>
                 </div>
                 <About />
@@ -47,7 +47,7 @@ function App() {
               </Route>
               <Route path="/portfolio">
                 <div className="header">
-                  <Link to="/FatlineTattooClub/"><Fatline /></Link>
+                  <Link to="/fatline/"><Fatline /></Link>
                   <Menu styleMenu="menu"/>
                 </div>
                 <div className="rowPortfolio">
@@ -61,7 +61,7 @@ function App() {
               </Route>
               <Route path="/contact">
                 <div className="header">
-                  <Link to="/FatlineTattooClub/"><Fatline /></Link>
+                  <Link to="/fatline/"><Fatline /></Link>
                   <Menu styleMenu="menu"/>
                 </div>
                 <ContactForm />
